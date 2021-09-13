@@ -10,7 +10,7 @@ a) Prepare for a system design or open-ended rounds.
 b) Learn more about how large-scale systems work and thought process of designing a new system.
 
 ## Index
-- [x] [Starting point](#start)
+- [ ] [Starting point](#start)
 - [ ] [basics](#basics)
 - [ ] [How to answer in interviews](#howtoans)
 - [ ] [Steps how I approach the system design questions in interviews](#myapproach)
